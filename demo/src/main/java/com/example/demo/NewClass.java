@@ -6,5 +6,10 @@ public class NewClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	void method()
+	{
+		
+	}
 
 }
