@@ -6,6 +6,8 @@ public class Class3 {
 		// TODO Auto-generated method stub
 		// add line 1
 		
+		
+		// add line 2
 	}
 
 }
